@@ -1,0 +1,63 @@
+body{
+    background-color:navy;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+table{
+    border: 1px solid white;
+    border-collapse: collapse;
+    margin: auto;
+}
+th,td{
+    border: 1px solid white;
+    color: white;
+    width: 100px;
+    height: 20px;
+}
+#comp{
+    background-color: white;
+    color: black;
+    width: 250px;
+    text-align: left;
+}
+#start{
+    background-color: darkgoldenrod;
+    width: 150px;
+}
+#ad{
+    background-color: red;
+    width: 150px;
+}
+#enter{
+    background-color: aqua;
+    width: 150px;
+}
+.center{
+    text-align: center;
+}
+.btn{
+    border-radius: 10px;
+    background-color: red;
+    color: white;
+}
+.tick{
+    width: 25px;
+    mix-blend-mode:multiply;
+}
+#yellow{
+    color:darkgoldenrod;
+     font-size: x-large;
+     font-weight: bold;
+}
+#red{
+    color: red;
+    font-size: x-large;
+    font-weight: bold;
+}
+#aqua{
+    color: aqua;
+    font-size: x-large;
+    font-weight: bold;
+}
